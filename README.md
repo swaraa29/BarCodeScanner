@@ -32,14 +32,3 @@ This project is a **Multiple Bar Code Scanner** that decodes barcodes from a liv
    - **Original Image** is also analyzed to compare and improve barcode detection accuracy.
 3. The processed images are analyzed to detect and decode barcodes in real-time.
    
-## Getting Started
-### Prerequisites
-- Python 3.x
-- OpenCV library
-- NumPy library
-
-### Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/multiple-bar-code-scanner.git
-   cd multiple-bar-code-scanner
